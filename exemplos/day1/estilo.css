@@ -1,3 +1,7 @@
 body {
         background-color: lightyellow;
 }
+
+#logo_python {
+        width: 100px;
+}
